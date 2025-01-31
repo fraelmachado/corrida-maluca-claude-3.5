@@ -1,5 +1,5 @@
 import streamlit as st
-from streamlit_keyup import keyup
+from st_keyup import st_keyup as keyup
 import random
 import time
 
